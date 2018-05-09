@@ -1,0 +1,43 @@
+.row {
+	position: relative;
+} 
+
+body {
+	background-color: #adebeb;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+}
+
+.container {
+	font-family: 'Vesper Libre', serif;
+}
+
+#row2 {
+	left: 300px;
+}
+
+#row3 {
+	left: 550px;
+	top: -195px;
+}
+
+.column {
+	font-size: 24px;
+}
+
+img {
+	position: relative;
+	height: 25%;
+	width: 25%;
+	transform: rotate(90deg);
+	top: 225px;
+	left: 100px;
+}
+
+.class {
+	font-family: 'Vesper Libre', serif;
+	position: absolute;
+	top: 250px;
+	position: center;
+}
