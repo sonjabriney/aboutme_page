@@ -24,6 +24,7 @@ body {
 
 .column {
 	font-size: 24px;
+	left: -100px;
 }
 
 img {
